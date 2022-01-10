@@ -1,12 +1,12 @@
 # WebFinal
 # Final Web application using framework
-<br>It was created by Eliza Tursunbekova&&Samara Beknazarova
+<br>It was created by Eliza Tursunbekova&&Samara Beknazarova  https://eliza-ttt.github.io/WebFinal/
 <br>
 <br>
 Link to the Youtube video https://youtu.be/VAu4tuE3A1k
 <br>
 <br>
-Link to the video feedbacks
+Link to the video feedbacks https://drive.google.com/drive/folders/1WXsebev4h8Km3gKd8AEGJnwwU1aAQOvb?usp=sharing
 
 If we write incorrect city name or leave empy you can see this
 <br>
